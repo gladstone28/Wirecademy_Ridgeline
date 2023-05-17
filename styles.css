@@ -1,178 +1,64 @@
-/* Final Video Styles */
-
-.flexbox-container {
-    display: flex;
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-.flexbox-item {
-    width: 200px;
-    margin: 10px;
-    border: 3px solid #333;
-    background-color: #dfdfdf;
+header {
+    height: 60px;
+    background: #e33966;
+    font-size: 32px;
+    color: white;
+    line-height: 60px;
+    padding-left: 15px;
 }
 
-.flexbox-item-1 {
-    /*
-    flex: 1 0 0;
-    */
-    min-height: 100px;
-    flex-shrink: 0;
-    /*
-    flex-shrink: 0;
-    align-self: flex-end;
-    order: 3;
-    */
+main {
+    height: 800px;
+    padding-top: 32px;
 }
 
-.flexbox-item-2 {
-    min-height: 200px;
-    flex-wrap: 1;
-    flex-basis: 0;
-    align-self: center;
-    /*
-    flex-grow: 2;
-    flex-basis: 0;
-    align-self: center;
-    order: 1;
-    */
+h1,
+h2 {
+    text-align: center;
+    font-weight: 400;
 }
 
-.flexbox-item-3 {
-    min-height: 300px;
-    flex-grow: 1;
-    flex-basis: 0;
-    /*
-    flex-grow: 1;
-    flex-basis: 0;
-    order: 2;
-    */
+h2 {
+    font-size: 16px;
+    color: #555;
+    margin-bottom: 32px;
 }
 
+h4 {
+    font-size: 14px;
+    font-weight: 300;
+    color: #e33966;
+}
 
-/* Background Styles */
+p {
+    font-family: 'Roboto', sans-serif;
+    color: #888;
+    font-size 14px;
+    line-height: 1.6;
+}
 
-html {
+.col-container {
+    width: 960px;
     height: 100%;
-    background-color: #333;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    //background: pink;
+    margin-left: auto;
+    margin-right: auto;
 }
 
-.flexbox-item-1 {
-    min-height: 100px;
-}
-
-.flexbox-item-2 {
-    min-height: 200px;
-}
-
-.flexbox-item-3 {
-    min-height: 300px;
-}
-
-.flexbox-container {
-    position: relative;
-    background-color: yellow;
-}
-
-.flexbox-container::before {
-    content: 'Flexbox Container';
-    position: absolute;
-    top: -40px;
-    color: yellow;
-    font-size: 2em;
-}
-
-.axis {
-    position: absolute;
-}
-
-.cross-axis {
-    left: 50%;
-    transform: translateX(-50%);
-    width: 5px;
+.col {
+    width: 210px;
     height: 100%;
-    background-color: blue;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
-.main-axis {
-    top: 50%;
-    transform: translateY(-50%);
-    height: 5px;
-    width: 100%;
-    background-color: red;
-}
-
-.axis::after {
-    position: absolute;
-    right: 10px;
-    bottom: 10px;
-    font-size: 2em;
-}
-
-.main-axis::after {
-    position: absolute;
-    content: 'Main Axis';
-    color: red;
-}
-
-.cross-axis::after {
-    white-space: nowrap;
-    content: 'Cross Axis';
-    writing-mode: vertical-rl;
-    transform: rotate(180deg);
-    color: blue;
-}
-
-.flexbox-item {
-    position: relative;
-    width: 200px;
-    margin: 10px;
-    border: 3px solid #333;
-    background-color: #dfdfdf;
-    font-size: 100px;
-    display: flex;
-    justify-content: center;
-}
-
-.flexbox-item::before {
-    content: 'Flexbox Item';
-    position: absolute;
-    color: black;
-    font-size: 25px;
-    top: 10px;
-    left: 15px;
-}
-
-.flexbox-item::after {
-    position: absolute;
-    color: black;
-    font-size: 25px;
-    top: 10px;
-    right: 15px;
-}
-
-.flexbox-item-1::after {
-    content: '1';
-}
-
-.flexbox-item-2::after {
-    content: '2';
-}
-
-.flexbox-item-3::after {
-    content: '3';
-}
-
-.flexbox-item-4::after {
-    content: '4';
-}
-
-.flexbox-item-5::after {
-    content: '5';
-}
-
-.flexbox-item-6::after {
-    content: '6';
+footer {
+    height: 200px;
 }
