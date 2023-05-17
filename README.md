@@ -56,3 +56,6 @@ Intro to UI and UX Design Wirecademy Ridgeline
 
 https://www.youtube.com/watch?v=zErlRUrXRko
 
+
+##### NG: memory jog
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/INTRODUCTION_TO_UI_AND_UX_DESIGN/Wirecademy_Ridgeline
