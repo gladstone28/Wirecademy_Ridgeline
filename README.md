@@ -47,15 +47,22 @@ If you have access to a printer, you can print the starting template and then sk
 
 If additional space is needed for more iterations, you can continue sketching on the backside of the template, print another template document, or utilize any paper that might be nearby.
 
+## Resources
 
-## VIDEO
+### VIDEOS
 
-### Link to the video
+#### Link to the Cocademy video
 
 Intro to UI and UX Design Wirecademy Ridgeline
 
 https://www.youtube.com/watch?v=zErlRUrXRko
 
+#### Link to get on with IT video
+
+Web coding basics 2 - iPhone style web page
+https://www.youtube.com/watch?v=BdQI5bh4z1I
 
 ##### NG: memory jog
 /c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/INTRODUCTION_TO_UI_AND_UX_DESIGN/Wirecademy_Ridgeline
+
+
