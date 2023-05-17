@@ -40,6 +40,7 @@ Let’s dive in!
 
 
 To kick things off, you are provided a template that you can use to help get started.
+![](extension://elhekieabhbkpmcefcoobjddigjcaadp/https://static-assets.codecademy.com/Courses/intro-to-ui-and-ux/wireframes/wireframe-project-template.pdf?_gl=1*1q5g913*_ga*NjM3NTk3OTEwLjE2NzY2MDk3Nzc.*_ga_3LRZM6TM9L*MTY4NDM2NTc5OS40NDMuMS4xNjg0MzY1ODAwLjU5LjAuMA..)
 
 In the wireframe project template, you will find a collection of common wireframe elements that can be used as a reference when creating your sketches. You can use these elements as you see fit, but you are not limited to using only the elements provided. Additionally, we have provided two frames for you to create sketches within. Size elements appropriately and according to the hierarchy of importance within the confines of the frame. Annotate your sketches when appropriate.
 
@@ -56,6 +57,9 @@ If additional space is needed for more iterations, you can continue sketching on
 Intro to UI and UX Design Wirecademy Ridgeline
 
 https://www.youtube.com/watch?v=zErlRUrXRko
+
+Link to Patagonia inspiration
+https://www.patagonia.com/product/mens-nano-puff-hoody/84222.html
 
 #### Link to get on with IT video
 
