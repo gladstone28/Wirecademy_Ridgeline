@@ -1,4 +1,4 @@
-
+[This is the link to the lesson](/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/INTRODUCTION_TO_UI_AND_UX_DESIGN/Wirecademy_Ridgeline)
 ###### Link to Codecademy Lesson
 
 https://www.codecademy.com/courses/intro-to-ui-ux/projects/ui-and-ux-wirecademy-ridgeline
