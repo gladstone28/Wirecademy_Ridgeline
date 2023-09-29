@@ -3,6 +3,10 @@
 
 https://www.codecademy.com/courses/intro-to-ui-ux/projects/ui-and-ux-wirecademy-ridgeline
 
+The following is the link to the walkthrough video
+Intro to UI and UX Design Wirecademy Ridgeline 
+https://www.youtube.com/watch?v=zErlRUrXRko
+
 # INTRODUCTION TO UI AND UX DESIGN
 
 ## Wirecademy: Ridgeline
